@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\PassingTheTuringTest\obj\Debug\PassingTheTuringTest.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\PassingTheTuringTest\bin\Debug\PassingTheTuringTest.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\PassingTheTuringTest\bin\Debug\PassingTheTuringTest.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\PassingTheTuringTest\bin\Debug\PassingTheTuringTest.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\PassingTheTuringTest\obj\Debug\PassingTheTuringTest.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\PassingTheTuringTest\obj\Debug\PassingTheTuringTest.pdb

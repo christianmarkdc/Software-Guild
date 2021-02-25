@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\ARainbow\bin\Debug\ARainbow.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\ARainbow\bin\Debug\ARainbow.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\ARainbow\bin\Debug\ARainbow.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\ARainbow\obj\Debug\ARainbow.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\ARainbow\obj\Debug\ARainbow.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\ARainbow\obj\Debug\ARainbow.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\ARainbow\obj\Debug\ARainbow.pdb

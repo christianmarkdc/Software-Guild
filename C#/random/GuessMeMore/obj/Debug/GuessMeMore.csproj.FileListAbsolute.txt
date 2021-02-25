@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\GuessMeMore\bin\Debug\GuessMeMore.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\GuessMeMore\bin\Debug\GuessMeMore.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\GuessMeMore\bin\Debug\GuessMeMore.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\GuessMeMore\obj\Debug\GuessMeMore.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\GuessMeMore\obj\Debug\GuessMeMore.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\GuessMeMore\obj\Debug\GuessMeMore.pdb

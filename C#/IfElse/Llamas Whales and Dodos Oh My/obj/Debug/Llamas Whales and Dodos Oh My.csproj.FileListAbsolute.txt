@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\Llamas Whales and Dodos Oh My\bin\Debug\Llamas Whales and Dodos Oh My.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\Llamas Whales and Dodos Oh My\bin\Debug\Llamas Whales and Dodos Oh My.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\Llamas Whales and Dodos Oh My\bin\Debug\Llamas Whales and Dodos Oh My.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\Llamas Whales and Dodos Oh My\obj\Debug\Llamas Whales and Dodos Oh My.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\Llamas Whales and Dodos Oh My\obj\Debug\Llamas Whales and Dodos Oh My.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\Llamas Whales and Dodos Oh My\obj\Debug\Llamas Whales and Dodos Oh My.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\Llamas Whales and Dodos Oh My\obj\Debug\Llamas Whales and Dodos Oh My.pdb

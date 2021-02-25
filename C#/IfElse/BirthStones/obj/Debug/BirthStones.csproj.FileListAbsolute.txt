@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\BirthStones\bin\Debug\BirthStones.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\BirthStones\bin\Debug\BirthStones.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\BirthStones\bin\Debug\BirthStones.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\BirthStones\obj\Debug\BirthStones.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\BirthStones\obj\Debug\BirthStones.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\BirthStones\obj\Debug\BirthStones.pdb

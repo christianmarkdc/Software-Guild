@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\SpaceRustlers\bin\Debug\SpaceRustlers.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\SpaceRustlers\bin\Debug\SpaceRustlers.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\SpaceRustlers\bin\Debug\SpaceRustlers.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\SpaceRustlers\obj\Debug\SpaceRustlers.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\SpaceRustlers\obj\Debug\SpaceRustlers.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\SpaceRustlers\obj\Debug\SpaceRustlers.pdb

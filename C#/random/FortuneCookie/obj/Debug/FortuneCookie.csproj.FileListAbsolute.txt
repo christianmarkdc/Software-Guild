@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\FortuneCookie\bin\Debug\FortuneCookie.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\FortuneCookie\bin\Debug\FortuneCookie.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\FortuneCookie\bin\Debug\FortuneCookie.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\FortuneCookie\obj\Debug\FortuneCookie.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\FortuneCookie\obj\Debug\FortuneCookie.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\FortuneCookie\obj\Debug\FortuneCookie.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\FortuneCookie\obj\Debug\FortuneCookie.pdb

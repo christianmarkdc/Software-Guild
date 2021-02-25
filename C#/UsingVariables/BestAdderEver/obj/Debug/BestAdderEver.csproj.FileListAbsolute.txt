@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\UsingVariables\BestAdderEver\obj\Debug\BestAdderEver.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\UsingVariables\BestAdderEver\bin\Debug\BestAdderEver.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\UsingVariables\BestAdderEver\bin\Debug\BestAdderEver.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\UsingVariables\BestAdderEver\bin\Debug\BestAdderEver.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\UsingVariables\BestAdderEver\obj\Debug\BestAdderEver.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\UsingVariables\BestAdderEver\obj\Debug\BestAdderEver.pdb

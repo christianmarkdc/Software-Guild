@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\DontForgetToStoreIt\bin\Debug\DontForgetToStoreIt.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\DontForgetToStoreIt\bin\Debug\DontForgetToStoreIt.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\DontForgetToStoreIt\bin\Debug\DontForgetToStoreIt.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.pdb

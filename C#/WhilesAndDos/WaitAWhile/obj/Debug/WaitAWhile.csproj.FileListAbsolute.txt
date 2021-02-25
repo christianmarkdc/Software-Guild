@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\WaitAWhile\bin\Debug\WaitAWhile.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\WaitAWhile\bin\Debug\WaitAWhile.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\WaitAWhile\bin\Debug\WaitAWhile.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\WaitAWhile\obj\Debug\WaitAWhile.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\WaitAWhile\obj\Debug\WaitAWhile.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\WaitAWhile\obj\Debug\WaitAWhile.pdb

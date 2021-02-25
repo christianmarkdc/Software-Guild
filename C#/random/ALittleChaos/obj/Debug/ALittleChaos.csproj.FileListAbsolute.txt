@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\ALittleChaos\bin\Debug\ALittleChaos.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\ALittleChaos\bin\Debug\ALittleChaos.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\ALittleChaos\bin\Debug\ALittleChaos.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\ALittleChaos\obj\Debug\ALittleChaos.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\ALittleChaos\obj\Debug\ALittleChaos.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\ALittleChaos\obj\Debug\ALittleChaos.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\ALittleChaos\obj\Debug\ALittleChaos.pdb

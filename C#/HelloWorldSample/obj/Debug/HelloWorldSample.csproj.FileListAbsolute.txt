@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\HelloWorldSample\bin\Debug\HelloWorldSample.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\HelloWorldSample\bin\Debug\HelloWorldSample.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\HelloWorldSample\bin\Debug\HelloWorldSample.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\HelloWorldSample\obj\Debug\HelloWorldSample.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\HelloWorldSample\obj\Debug\HelloWorldSample.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\HelloWorldSample\obj\Debug\HelloWorldSample.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\HelloWorldSample\obj\Debug\HelloWorldSample.pdb

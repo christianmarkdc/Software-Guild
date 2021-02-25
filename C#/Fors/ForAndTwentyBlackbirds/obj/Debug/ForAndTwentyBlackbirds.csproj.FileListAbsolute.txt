@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForAndTwentyBlackbirds\bin\Debug\ForAndTwentyBlackbirds.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForAndTwentyBlackbirds\bin\Debug\ForAndTwentyBlackbirds.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForAndTwentyBlackbirds\bin\Debug\ForAndTwentyBlackbirds.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForAndTwentyBlackbirds\obj\Debug\ForAndTwentyBlackbirds.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForAndTwentyBlackbirds\obj\Debug\ForAndTwentyBlackbirds.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForAndTwentyBlackbirds\obj\Debug\ForAndTwentyBlackbirds.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForAndTwentyBlackbirds\obj\Debug\ForAndTwentyBlackbirds.pdb

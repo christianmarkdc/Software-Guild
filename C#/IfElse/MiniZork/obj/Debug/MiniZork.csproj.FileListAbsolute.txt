@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\MiniZork\bin\Debug\MiniZork.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\MiniZork\bin\Debug\MiniZork.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\MiniZork\bin\Debug\MiniZork.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\MiniZork\obj\Debug\MiniZork.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\MiniZork\obj\Debug\MiniZork.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\MiniZork\obj\Debug\MiniZork.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\MiniZork\obj\Debug\MiniZork.pdb

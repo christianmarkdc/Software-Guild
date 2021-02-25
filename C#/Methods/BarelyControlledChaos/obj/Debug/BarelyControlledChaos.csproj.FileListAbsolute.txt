@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\BarelyControlledChaos\bin\Debug\BarelyControlledChaos.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\BarelyControlledChaos\bin\Debug\BarelyControlledChaos.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\BarelyControlledChaos\bin\Debug\BarelyControlledChaos.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\BarelyControlledChaos\obj\Debug\BarelyControlledChaos.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\BarelyControlledChaos\obj\Debug\BarelyControlledChaos.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\BarelyControlledChaos\obj\Debug\BarelyControlledChaos.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\BarelyControlledChaos\obj\Debug\BarelyControlledChaos.pdb

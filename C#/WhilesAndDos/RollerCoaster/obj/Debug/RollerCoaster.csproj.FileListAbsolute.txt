@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\RollerCoaster\bin\Debug\RollerCoaster.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\RollerCoaster\bin\Debug\RollerCoaster.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\RollerCoaster\bin\Debug\RollerCoaster.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\RollerCoaster\obj\Debug\RollerCoaster.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\RollerCoaster\obj\Debug\RollerCoaster.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\RollerCoaster\obj\Debug\RollerCoaster.pdb

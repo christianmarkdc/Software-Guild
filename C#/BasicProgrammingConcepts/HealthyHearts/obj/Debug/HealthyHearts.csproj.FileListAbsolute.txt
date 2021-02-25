@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\HealthyHearts\bin\Debug\HealthyHearts.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\HealthyHearts\bin\Debug\HealthyHearts.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\HealthyHearts\bin\Debug\HealthyHearts.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\HealthyHearts\obj\Debug\HealthyHearts.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\HealthyHearts\obj\Debug\HealthyHearts.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\HealthyHearts\obj\Debug\HealthyHearts.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\HealthyHearts\obj\Debug\HealthyHearts.pdb

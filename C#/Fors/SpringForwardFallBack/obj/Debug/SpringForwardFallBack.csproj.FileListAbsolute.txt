@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\SpringForwardFallBack\bin\Debug\SpringForwardFallBack.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\SpringForwardFallBack\bin\Debug\SpringForwardFallBack.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\SpringForwardFallBack\bin\Debug\SpringForwardFallBack.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\SpringForwardFallBack\obj\Debug\SpringForwardFallBack.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\SpringForwardFallBack\obj\Debug\SpringForwardFallBack.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\SpringForwardFallBack\obj\Debug\SpringForwardFallBack.pdb

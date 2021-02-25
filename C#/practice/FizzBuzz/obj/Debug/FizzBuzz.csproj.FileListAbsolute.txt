@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\FizzBuzz\obj\Debug\FizzBuzz.pdb

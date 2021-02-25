@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitsBasket\bin\Debug\FruitsBasket.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitsBasket\bin\Debug\FruitsBasket.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitsBasket\bin\Debug\FruitsBasket.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitsBasket\obj\Debug\FruitsBasket.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitsBasket\obj\Debug\FruitsBasket.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitsBasket\obj\Debug\FruitsBasket.pdb

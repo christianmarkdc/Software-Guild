@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\DogGenetics\bin\Debug\DogGenetics.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\DogGenetics\bin\Debug\DogGenetics.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\DogGenetics\bin\Debug\DogGenetics.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\DogGenetics\obj\Debug\DogGenetics.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\DogGenetics\obj\Debug\DogGenetics.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\DogGenetics\obj\Debug\DogGenetics.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\DogGenetics\obj\Debug\DogGenetics.pdb

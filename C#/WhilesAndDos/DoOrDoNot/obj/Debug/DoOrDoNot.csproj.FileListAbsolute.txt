@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\DoOrDoNot\bin\Debug\DoOrDoNot.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\DoOrDoNot\bin\Debug\DoOrDoNot.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\DoOrDoNot\bin\Debug\DoOrDoNot.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\DoOrDoNot\obj\Debug\DoOrDoNot.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\DoOrDoNot\obj\Debug\DoOrDoNot.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\DoOrDoNot\obj\Debug\DoOrDoNot.pdb

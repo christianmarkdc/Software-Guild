@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\Factorizer\bin\Debug\Factorizer.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\Factorizer\bin\Debug\Factorizer.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\Factorizer\bin\Debug\Factorizer.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\Factorizer\obj\Debug\Factorizer.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\Factorizer\obj\Debug\Factorizer.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\Factorizer\obj\Debug\Factorizer.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\Factorizer\obj\Debug\Factorizer.pdb

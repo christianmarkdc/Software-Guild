@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\LazyTeenager\bin\Debug\LazyTeenager.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\LazyTeenager\bin\Debug\LazyTeenager.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\LazyTeenager\bin\Debug\LazyTeenager.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\LazyTeenager\obj\Debug\LazyTeenager.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\LazyTeenager\obj\Debug\LazyTeenager.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\LazyTeenager\obj\Debug\LazyTeenager.pdb

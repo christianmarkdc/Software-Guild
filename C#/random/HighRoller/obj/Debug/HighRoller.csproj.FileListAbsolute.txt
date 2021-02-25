@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\HighRoller\bin\Debug\HighRoller.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\HighRoller\bin\Debug\HighRoller.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\HighRoller\bin\Debug\HighRoller.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\HighRoller\obj\Debug\HighRoller.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\HighRoller\obj\Debug\HighRoller.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\HighRoller\obj\Debug\HighRoller.pdb

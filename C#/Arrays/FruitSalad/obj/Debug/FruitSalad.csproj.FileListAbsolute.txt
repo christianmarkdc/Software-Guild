@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitSalad\bin\Debug\FruitSalad.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitSalad\bin\Debug\FruitSalad.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitSalad\bin\Debug\FruitSalad.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitSalad\obj\Debug\FruitSalad.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitSalad\obj\Debug\FruitSalad.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\FruitSalad\obj\Debug\FruitSalad.pdb

@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\StillPositive\bin\Debug\StillPositive.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\StillPositive\bin\Debug\StillPositive.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\StillPositive\bin\Debug\StillPositive.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\StillPositive\obj\Debug\StillPositive.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\StillPositive\obj\Debug\StillPositive.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\StillPositive\obj\Debug\StillPositive.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\StillPositive\obj\Debug\StillPositive.pdb

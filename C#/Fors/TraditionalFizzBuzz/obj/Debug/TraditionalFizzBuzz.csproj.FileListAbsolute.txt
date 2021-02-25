@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\TraditionalFizzBuzz\bin\Debug\TraditionalFizzBuzz.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\TraditionalFizzBuzz\bin\Debug\TraditionalFizzBuzz.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\TraditionalFizzBuzz\bin\Debug\TraditionalFizzBuzz.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\TraditionalFizzBuzz\obj\Debug\TraditionalFizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\TraditionalFizzBuzz\obj\Debug\TraditionalFizzBuzz.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\TraditionalFizzBuzz\obj\Debug\TraditionalFizzBuzz.pdb

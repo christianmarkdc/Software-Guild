@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\SimpleCombination\bin\Debug\SimpleCombination.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\SimpleCombination\bin\Debug\SimpleCombination.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\SimpleCombination\bin\Debug\SimpleCombination.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\SimpleCombination\obj\Debug\SimpleCombination.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\SimpleCombination\obj\Debug\SimpleCombination.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\SimpleCombination\obj\Debug\SimpleCombination.pdb

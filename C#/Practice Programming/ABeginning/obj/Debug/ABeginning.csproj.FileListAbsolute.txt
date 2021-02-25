@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Practice Programming\ABeginning\bin\Debug\ABeginning.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Practice Programming\ABeginning\bin\Debug\ABeginning.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Practice Programming\ABeginning\bin\Debug\ABeginning.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Practice Programming\ABeginning\obj\Debug\ABeginning.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Practice Programming\ABeginning\obj\Debug\ABeginning.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Practice Programming\ABeginning\obj\Debug\ABeginning.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Practice Programming\ABeginning\obj\Debug\ABeginning.pdb

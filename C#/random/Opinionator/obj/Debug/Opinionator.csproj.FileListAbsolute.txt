@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\Opinionator\bin\Debug\Opinionator.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\Opinionator\bin\Debug\Opinionator.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\Opinionator\bin\Debug\Opinionator.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\Opinionator\obj\Debug\Opinionator.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\Opinionator\obj\Debug\Opinionator.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\Opinionator\obj\Debug\Opinionator.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\random\Opinionator\obj\Debug\Opinionator.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForTimesFor", "ForTimesFor.csproj", "{FF96B498-2B95-4C1E-A1A2-4EEB4282A926}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF96B498-2B95-4C1E-A1A2-4EEB4282A926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF96B498-2B95-4C1E-A1A2-4EEB4282A926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF96B498-2B95-4C1E-A1A2-4EEB4282A926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF96B498-2B95-4C1E-A1A2-4EEB4282A926}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB53B50D-D30B-472F-9B17-A921D114DCF5}
+	EndGlobalSection
+EndGlobal

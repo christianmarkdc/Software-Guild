@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\MaybeItLovesMe\bin\Debug\MaybeItLovesMe.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\MaybeItLovesMe\bin\Debug\MaybeItLovesMe.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\MaybeItLovesMe\bin\Debug\MaybeItLovesMe.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\MaybeItLovesMe\obj\Debug\MaybeItLovesMe.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\MaybeItLovesMe\obj\Debug\MaybeItLovesMe.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\MaybeItLovesMe\obj\Debug\MaybeItLovesMe.pdb

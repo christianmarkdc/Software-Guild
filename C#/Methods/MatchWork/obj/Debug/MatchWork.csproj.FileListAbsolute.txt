@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MatchWork\obj\Debug\MatchWork.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MatchWork\bin\Debug\MatchWork.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MatchWork\bin\Debug\MatchWork.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MatchWork\bin\Debug\MatchWork.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MatchWork\obj\Debug\MatchWork.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MatchWork\obj\Debug\MatchWork.pdb

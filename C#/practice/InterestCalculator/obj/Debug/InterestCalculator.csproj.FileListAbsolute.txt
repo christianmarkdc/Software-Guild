@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\InterestCalculator\obj\Debug\InterestCalculator.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\InterestCalculator\obj\Debug\InterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\practice\InterestCalculator\obj\Debug\InterestCalculator.pdb

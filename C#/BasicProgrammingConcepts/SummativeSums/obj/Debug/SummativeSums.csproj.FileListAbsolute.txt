@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\SummativeSums\bin\Debug\SummativeSums.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\SummativeSums\bin\Debug\SummativeSums.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\SummativeSums\bin\Debug\SummativeSums.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\SummativeSums\obj\Debug\SummativeSums.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\SummativeSums\obj\Debug\SummativeSums.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\BasicProgrammingConcepts\SummativeSums\obj\Debug\SummativeSums.pdb

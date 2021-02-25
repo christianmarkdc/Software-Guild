@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForTimesFor\bin\Debug\ForTimesFor.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForTimesFor\bin\Debug\ForTimesFor.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForTimesFor\bin\Debug\ForTimesFor.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForTimesFor\obj\Debug\ForTimesFor.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForTimesFor\obj\Debug\ForTimesFor.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Fors\ForTimesFor\obj\Debug\ForTimesFor.pdb

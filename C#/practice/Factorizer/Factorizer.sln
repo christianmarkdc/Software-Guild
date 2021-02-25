@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorizer", "Factorizer.csproj", "{7FDB4099-6615-48D1-938E-C597C01FBF19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FDB4099-6615-48D1-938E-C597C01FBF19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FDB4099-6615-48D1-938E-C597C01FBF19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FDB4099-6615-48D1-938E-C597C01FBF19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FDB4099-6615-48D1-938E-C597C01FBF19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0CD7348-FF71-4BA7-BD5D-695189D1E219}
+	EndGlobalSection
+EndGlobal

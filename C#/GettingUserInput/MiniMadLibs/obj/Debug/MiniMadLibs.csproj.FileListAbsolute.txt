@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\MiniMadLibs\bin\Debug\MiniMadLibs.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\MiniMadLibs\bin\Debug\MiniMadLibs.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\MiniMadLibs\bin\Debug\MiniMadLibs.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\MiniMadLibs\obj\Debug\MiniMadLibs.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\MiniMadLibs\obj\Debug\MiniMadLibs.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\MiniMadLibs\obj\Debug\MiniMadLibs.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\GettingUserInput\MiniMadLibs\obj\Debug\MiniMadLibs.pdb

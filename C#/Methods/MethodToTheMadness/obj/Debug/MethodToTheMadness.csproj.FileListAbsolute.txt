@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MethodToTheMadness\bin\Debug\MethodToTheMadness.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MethodToTheMadness\bin\Debug\MethodToTheMadness.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MethodToTheMadness\bin\Debug\MethodToTheMadness.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MethodToTheMadness\obj\Debug\MethodToTheMadness.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MethodToTheMadness\obj\Debug\MethodToTheMadness.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MethodToTheMadness\obj\Debug\MethodToTheMadness.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\MethodToTheMadness\obj\Debug\MethodToTheMadness.pdb

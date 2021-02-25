@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\StayPositive\bin\Debug\StayPositive.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\StayPositive\bin\Debug\StayPositive.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\StayPositive\bin\Debug\StayPositive.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\StayPositive\obj\Debug\StayPositive.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\StayPositive\obj\Debug\StayPositive.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\WhilesAndDos\StayPositive\obj\Debug\StayPositive.pdb

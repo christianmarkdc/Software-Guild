@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\GuessMe\bin\Debug\GuessMe.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\GuessMe\bin\Debug\GuessMe.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\GuessMe\bin\Debug\GuessMe.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\GuessMe\obj\Debug\GuessMe.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\GuessMe\obj\Debug\GuessMe.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\IfElse\GuessMe\obj\Debug\GuessMe.pdb

@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\HiddenNuts\bin\Debug\HiddenNuts.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\HiddenNuts\bin\Debug\HiddenNuts.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\HiddenNuts\bin\Debug\HiddenNuts.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\HiddenNuts\obj\Debug\HiddenNuts.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\HiddenNuts\obj\Debug\HiddenNuts.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\HiddenNuts\obj\Debug\HiddenNuts.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Arrays\HiddenNuts\obj\Debug\HiddenNuts.pdb

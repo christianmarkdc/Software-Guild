@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\ReturnToSender\bin\Debug\ReturnToSender.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\ReturnToSender\bin\Debug\ReturnToSender.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\ReturnToSender\bin\Debug\ReturnToSender.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\ReturnToSender\obj\Debug\ReturnToSender.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\ReturnToSender\obj\Debug\ReturnToSender.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Methods\ReturnToSender\obj\Debug\ReturnToSender.pdb
