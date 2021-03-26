@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\bin\Debug\ContactList.UI.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\bin\Debug\ContactList.UI.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\bin\Debug\ContactList.Data.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\bin\Debug\ContactList.Models.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\bin\Debug\ContactList.Data.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\bin\Debug\ContactList.Models.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\obj\Debug\ContactList.UI.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\obj\Debug\ContactList.UI.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\obj\Debug\ContactList.UI.csproj.CopyComplete
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\obj\Debug\ContactList.UI.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.UI\obj\Debug\ContactList.UI.pdb

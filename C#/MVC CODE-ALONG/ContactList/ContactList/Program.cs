@@ -1,0 +1,22 @@
+﻿using ContactList.BLL;
+using ContactList.Data;
+using ContactList.Models;
+using ContactList.UI;
+using ContactList.Controller;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ContactList
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            ContactController controller = new ContactController();
+            controller.Run();
+        }
+    }
+}

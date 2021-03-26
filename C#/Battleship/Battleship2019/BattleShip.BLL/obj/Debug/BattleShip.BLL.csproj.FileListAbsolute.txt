@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb

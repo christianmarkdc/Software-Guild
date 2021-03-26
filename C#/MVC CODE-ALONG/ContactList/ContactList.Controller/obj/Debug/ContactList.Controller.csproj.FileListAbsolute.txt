@@ -1,0 +1,2 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.Controller\obj\Debug\ContactList.Controller.csproj.CoreCompileInputs.cache

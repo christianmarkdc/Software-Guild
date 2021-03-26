@@ -1,0 +1,12 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.UI.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.UI.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.UI.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.BLL.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\bin\Debug\GuessingGame.BLL.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.csproj.CopyComplete
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\obj\Debug\GuessingGame.UI.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.UI\bin\Debug\Microsoft.Identity.Client.xml

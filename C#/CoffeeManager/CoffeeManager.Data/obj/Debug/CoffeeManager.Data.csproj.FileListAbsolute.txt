@@ -1,0 +1,9 @@
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\bin\Debug\CoffeeManager.Data.dll
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\bin\Debug\CoffeeManager.Data.pdb
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\bin\Debug\CoffeeManager.Models.dll
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\bin\Debug\CoffeeManager.Models.pdb
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\obj\Debug\CoffeeManager.Data.csprojAssemblyReference.cache
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\obj\Debug\CoffeeManager.Data.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\obj\Debug\CoffeeManager.Data.csproj.CopyComplete
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\obj\Debug\CoffeeManager.Data.dll
+C:\Users\chris\Documents\c#\CoffeeManager\CoffeeManager.Data\obj\Debug\CoffeeManager.Data.pdb

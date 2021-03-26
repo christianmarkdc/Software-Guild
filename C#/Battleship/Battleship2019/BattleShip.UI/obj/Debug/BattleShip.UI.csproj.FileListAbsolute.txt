@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Battleship\Battleship2019\BattleShip.UI\obj\Debug\BattleShip.UI.pdb

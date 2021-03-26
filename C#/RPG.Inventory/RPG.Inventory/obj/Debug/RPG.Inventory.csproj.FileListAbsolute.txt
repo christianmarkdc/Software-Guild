@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\RPG.Inventory\RPG.Inventory\bin\Debug\RPG.Inventory.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\RPG.Inventory\RPG.Inventory\bin\Debug\RPG.Inventory.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.pdb

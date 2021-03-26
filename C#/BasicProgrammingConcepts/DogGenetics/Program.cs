@@ -14,10 +14,7 @@ namespace DogGenetics
             Random DNA = new Random();
             int breed1, breed2, breed3, breed4, breed5, total;
             Console.WriteLine("What is your dog's name");
-            //check if total goes out of bounds
-            //probably put a method here that you can use 
-            //so you can call the method 
-            //yeah
+
             dogName = Console.ReadLine();
             breed1 = DNA.Next(0, 100);
             total = 100 - breed1;

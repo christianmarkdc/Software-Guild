@@ -1,0 +1,1 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList\obj\Debug\ContactList.csproj.CoreCompileInputs.cache

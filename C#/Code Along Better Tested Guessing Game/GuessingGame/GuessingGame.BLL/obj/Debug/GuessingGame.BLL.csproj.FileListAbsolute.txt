@@ -1,0 +1,5 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\Code Along Better Tested Guessing Game\GuessingGame\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.pdb

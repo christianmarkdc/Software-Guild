@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC CODE-ALONG\ContactList\ContactList.Models\bin\Debug\ContactList.Models.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC CODE-ALONG\ContactList\ContactList.Models\bin\Debug\ContactList.Models.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC CODE-ALONG\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC CODE-ALONG\ContactList\ContactList.Models\obj\Debug\ContactList.Models.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC CODE-ALONG\ContactList\ContactList.Models\obj\Debug\ContactList.Models.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\MVC Code-Along\ContactList\ContactList.Models\obj\Debug\ContactList.Models.csprojAssemblyReference.cache
