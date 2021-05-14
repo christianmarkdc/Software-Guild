@@ -1,0 +1,7 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIO\bin\Debug\SystemIO.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIO\bin\Debug\SystemIO.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIO\bin\Debug\SystemIO.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIO\obj\Debug\SystemIO.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIO\obj\Debug\SystemIO.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIO\obj\Debug\SystemIO.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIO\obj\Debug\SystemIO.csprojAssemblyReference.cache

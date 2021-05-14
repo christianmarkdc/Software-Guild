@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIOPractice\bin\Debug\SystemIOPractice.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIOPractice\bin\Debug\SystemIOPractice.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIOPractice\obj\Debug\SystemIOPractice.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIOPractice\obj\Debug\SystemIOPractice.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIOPractice\obj\Debug\SystemIOPractice.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SystemIO\SystemIOPractice\obj\Debug\SystemIOPractice.pdb
