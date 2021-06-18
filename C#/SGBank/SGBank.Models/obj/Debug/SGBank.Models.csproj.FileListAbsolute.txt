@@ -1,0 +1,6 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.Models\bin\Debug\SGBank.Models.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.Models\bin\Debug\SGBank.Models.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.Models\obj\Debug\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.Models\obj\Debug\SGBank.Models.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.Models\obj\Debug\SGBank.Models.pdb

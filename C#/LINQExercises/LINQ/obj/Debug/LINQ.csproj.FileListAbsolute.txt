@@ -7,3 +7,11 @@ C:\Users\Christian\Downloads\LINQExercises\LINQ\obj\Debug\LINQ.csprojAssemblyRef
 C:\Users\Christian\Downloads\LINQExercises\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
 C:\Users\Christian\Downloads\LINQExercises\LINQ\obj\Debug\LINQ.exe
 C:\Users\Christian\Downloads\LINQExercises\LINQ\obj\Debug\LINQ.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\bin\Debug\Customers.xml
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\bin\Debug\LINQ.exe.config
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\bin\Debug\LINQ.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\obj\Debug\LINQ.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\obj\Debug\LINQ.exe
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\LINQExercises\LINQ\obj\Debug\LINQ.pdb

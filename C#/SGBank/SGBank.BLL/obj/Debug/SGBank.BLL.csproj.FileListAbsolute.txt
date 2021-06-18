@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Users\Christian\Documents\GitHub\Software-Guild\C#\SGBank\SGBank.BLL\obj\Debug\SGBank.BLL.pdb
